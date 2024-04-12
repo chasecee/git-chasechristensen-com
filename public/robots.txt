@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chasechristensen.com/sitemap_index.xml
+Sitemap: https://chasechristensen/sitemap_index.xml
