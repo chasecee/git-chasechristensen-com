@@ -94,8 +94,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://chasechristensen.com/neural-effects/</loc>
+		<lastmod>2024-04-12T21:11:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://chasechristensen.com/wp-content/uploads/2020/09/nfximage.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://chasechristensen.com/vita-brevis-films/</loc>
-		<lastmod>2020-09-27T01:16:00+00:00</lastmod>
+		<lastmod>2024-04-13T19:35:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://chasechristensen.com/wp-content/uploads/2019/08/vbf-imac-1.jpg</image:loc>
 		</image:image>
@@ -107,13 +114,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://chasechristensen.com/wp-content/uploads/2019/08/post-page2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://chasechristensen.com/neural-effects/</loc>
-		<lastmod>2024-04-12T21:11:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://chasechristensen.com/wp-content/uploads/2020/09/nfximage.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
