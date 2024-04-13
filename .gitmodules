@@ -1,0 +1,3 @@
+[submodule "super-static"]
+	path = super-static
+	url = https://github.com/chasecee/super-static
