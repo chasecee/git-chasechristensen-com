@@ -1,6 +1,12 @@
 {
+  "scripts": {
+    "vercel-build": "node convert-images.js && node minify.js"
+  },
   "dependencies": {
     "chokidar": "^3.6.0",
-    "sharp": "^0.33.3"
+    "clean-css": "^5.3.3",
+    "html-minifier": "^4.0.0",
+    "sharp": "^0.33.3",
+    "uglify-js": "^3.17.4"
   }
 }
