@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "vercel-build": "cd super-static && node build-images.js && node build-purge.js && node build-minify.js"
+    "vercel-build": "cd super-static && node build-images.js && node build-purge.js && node build-minify.js",
+    "images": "cd super-static && node build-images.js"
   },
   "dependencies": {
     "chokidar": "^3.6.0",
