@@ -9,6 +9,10 @@
     {
       "source": "/js/event",
       "destination": "https://t.chasecee.com/api/event"
+    },
+    {
+      "source": "/js/event/",
+      "destination": "https://t.chasecee.com/api/event"
     }
   ]
 }
