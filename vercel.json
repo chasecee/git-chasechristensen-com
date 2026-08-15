@@ -1,4 +1,14 @@
 {
   "cleanUrls": true,
-  "trailingSlash": true
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/js/pa.js",
+      "destination": "https://t.chasecee.com/js/script.js"
+    },
+    {
+      "source": "/js/event",
+      "destination": "https://t.chasecee.com/api/event"
+    }
+  ]
 }
