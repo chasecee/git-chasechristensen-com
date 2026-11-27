@@ -3,16 +3,12 @@
   "trailingSlash": true,
   "rewrites": [
     {
-      "source": "/js/pa.js",
-      "destination": "https://t.chasecee.com/js/script.js"
+      "source": "/js/u.js",
+      "destination": "https://u.chasecee.com/script.js"
     },
     {
-      "source": "/js/event",
-      "destination": "https://t.chasecee.com/api/event"
-    },
-    {
-      "source": "/js/event/",
-      "destination": "https://t.chasecee.com/api/event"
+      "source": "/js/api/send",
+      "destination": "https://u.chasecee.com/api/send"
     }
   ]
 }
